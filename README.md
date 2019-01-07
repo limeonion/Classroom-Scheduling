@@ -1,4 +1,4 @@
-<p align="center">Data Intensive Computing</br>Hadoop - MapReduce - Tableau</br>CSE 587 - Spring 2016 </p>
+<p align="center">Data Intensive Computing</br>Hadoop - MapReduce - Tableau</br></p>
 
 ------
 

@@ -2,7 +2,7 @@
 
 ------
 
-![Img_4](https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjsyb294tzfAhXdITQIHWF4AMAQjRx6BAgBEAU&url=https%3A%2F%2Fwww.saviantconsulting.com%2Fblog%2F4-benefits-predictive-asset-analytics.aspx&psig=AOvVaw0tzaF3o0nTyzj1iBpqIMlN&ust=1546988252279996)
+![Img_4](https://github.com/limeonion/Classroom-Scheduling/blob/master/Resources/11.png)
 
 Goal
 ------
@@ -65,9 +65,6 @@ Questions that we solved
 > **Source code:**</br>
 > https://github.com/ramanpreet1990/CSE_587_Data_Intensive_Computing/blob/master/Problem_2/Question_1_UB_Course_Demand/UBCourseDemand.java
 
-> **Tableau Link:**</br>
-> https://public.tableau.com/profile/publish/Q_1_UB_Course_Demand/P2_Q1#!/publish-confirm
-
 ![Img_6](https://raw.githubusercontent.com/ramanpreet1990/CSE_587_Data_Intensive_Computing/master/Resources/6.png)
 
 ---- 
@@ -79,9 +76,6 @@ Questions that we solved
 **Solution:**
 > **Source code:**</br>
 > https://github.com/ramanpreet1990/CSE_587_Data_Intensive_Computing/blob/master/Problem_2/Question_2_Popular_Department/PopularDepartment.java
-
-> **Tableau Link:**</br>
-> https://public.tableau.com/profile/publish/Q_2_Popular_Department/AnalysisofPopularDepartments#!/publish-confirm
 
 ![Img_7](https://raw.githubusercontent.com/ramanpreet1990/CSE_587_Data_Intensive_Computing/master/Resources/7.png)
 
@@ -95,9 +89,6 @@ Questions that we solved
 > **Source code:**</br>
 > https://github.com/ramanpreet1990/CSE_587_Data_Intensive_Computing/blob/master/Problem_2/Question_3_Building_Utilization/BuildingUtilization.java
 
-> **Tableau Link:**</br>
-> https://public.tableau.com/profile/publish/P2_Q3_0/P2_Q3#!/publish-confirm
-
 ![Img_8](https://raw.githubusercontent.com/ramanpreet1990/CSE_587_Data_Intensive_Computing/master/Resources/8.png)
 
 ---- 
@@ -110,8 +101,6 @@ Questions that we solved
 > **Source code:**</br>
 > https://github.com/ramanpreet1990/CSE_587_Data_Intensive_Computing/blob/master/Problem_2/Question_4_LectureTime_Analysis/LectureTimeAnalysis.java
 
-> **Tableau Link:**</br>
-> https://public.tableau.com/profile/publish/Q_4_LectureTime_Analysis/P2_Q4#!/publish-confirm
 
 ![Img_9](https://raw.githubusercontent.com/ramanpreet1990/CSE_587_Data_Intensive_Computing/master/Resources/9.png)
 
@@ -123,36 +112,8 @@ Questions that we solved
 > **Source code:**</br>
 > https://github.com/ramanpreet1990/CSE_587_Data_Intensive_Computing/blob/master/Problem_2/Question_5_Popular_Exam_Slots/PopularExamSlots.java
 
-> **Tableau Link:**</br>
-> https://public.tableau.com/profile/publish/Q_5_Popular_Exam_Slots/P2_Q5#!/publish-confirm
-
 ![Img_10](https://raw.githubusercontent.com/ramanpreet1990/CSE_587_Data_Intensive_Computing/master/Resources/10.png)
 
-Credits
-----------
- We acknowledge and grateful to [**Professor Bina Ramamurthy**](http://www.cse.buffalo.edu/faculty/bina/) and [**TA Junfei Wang**](https://www.linkedin.com/in/junfei-wang-5971a848) for their continuous support throughout the Course ([**CSE 587**](http://www.cse.buffalo.edu/~bina/cse487/spring2016/CourseDescription/description.html)) that helped us learn the skills of Data Intensive Computing and solve real life problems using that.
- 
- 
-Contributors
-------------------
-Ramanpreet Singh Khinda (rkhinda@buffalo.edu)</br>
-[![linkedin](https://raw.githubusercontent.com/ramanpreet1990/CSE_586_Simplified_Amazon_Dynamo/master/Resources/ic_linkedin.png)](https://www.linkedin.com/in/ramanpreetSinghKhinda)
-
-Elroy Preetham Alva (elroypre@buffalo.edu)
-
-![Img_5](https://raw.githubusercontent.com/ramanpreet1990/CSE_587_Data_Intensive_Computing/master/Resources/5.png)
- 
-
-License
--------
-Copyright {2016} 
-{Ramanpreet Singh Khinda rkhinda@buffalo.edu & Elroy Preetham Alva elroypre@buffalo.edu} 
-
-Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
-
-http://www.apache.org/licenses/LICENSE-2.0
-
-Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
 
 
 Important

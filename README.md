@@ -1,4 +1,4 @@
-<p align="center"></br>Hadoop - MapReduce - Tableau</br></p>
+# <p align="center"></br>Hadoop for Class Scheduling</br></p>
 
 ------
 

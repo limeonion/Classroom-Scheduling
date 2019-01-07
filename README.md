@@ -48,7 +48,7 @@ You can either run Hadoop MR jobs in HDFS which require you to run the HDFS ever
 ![Img_2](https://github.com/limeonion/Classroom-Scheduling/blob/master/Resources/2.png)
 
 	*Alternatively if you are running Hadoop on HDFS than you may want to give the HDFS path for the Arguments as shown below
-> hdfs://localhost:9000/user/rkhinda/input/ hdfs://localhost:9000/user/rkhinda/output/
+> hdfs://localhost:9000/user/rkhinda/input/ hdfs://localhost:9000/user/amit/output/
 
 6.  Define the location of a Hadoop infrastructure for running MapReduce applications
 ![Img_3](https://github.com/limeonion/Classroom-Scheduling/blob/master/Resources/3.png)
@@ -63,7 +63,7 @@ Questions that we solved
 
 **Solution:**
 > **Source code:**</br>
-> https://github.com/ramanpreet1990/CSE_587_Data_Intensive_Computing/blob/master/Problem_2/Question_1_UB_Course_Demand/UBCourseDemand.java
+> https://github.com/limeonion/Classroom-Scheduling/blob/master/Problem_2/Question_1_UB_Course_Demand/UBCourseDemand.java
 
 ![Img_6](https://github.com/limeonion/Classroom-Scheduling/blob/master/Resources/6.png)
 
@@ -75,7 +75,7 @@ Questions that we solved
 
 **Solution:**
 > **Source code:**</br>
-> https://github.com/ramanpreet1990/CSE_587_Data_Intensive_Computing/blob/master/Problem_2/Question_2_Popular_Department/PopularDepartment.java
+> https://github.com/limeonion/Classroom-Scheduling/blob/master/Problem_2/Question_2_Popular_Department/PopularDepartment.java
 
 ![Img_7](https://github.com/limeonion/Classroom-Scheduling/blob/master/Resources/7.png)
 
@@ -87,7 +87,7 @@ Questions that we solved
 
 **Solution:**
 > **Source code:**</br>
-> https://github.com/ramanpreet1990/CSE_587_Data_Intensive_Computing/blob/master/Problem_2/Question_3_Building_Utilization/BuildingUtilization.java
+> https://github.com/limeonion/Classroom-Scheduling/blob/master/Problem_2/Question_3_Building_Utilization/BuildingUtilization.java
 
 ![Img_8](https://github.com/limeonion/Classroom-Scheduling/blob/master/Resources/8.png)
 
@@ -99,7 +99,7 @@ Questions that we solved
 
 **Solution:**
 > **Source code:**</br>
-> https://github.com/ramanpreet1990/CSE_587_Data_Intensive_Computing/blob/master/Problem_2/Question_4_LectureTime_Analysis/LectureTimeAnalysis.java
+> https://github.com/limeonion/Classroom-Scheduling/blob/master/Problem_2/Question_4_LectureTime_Analysis/LectureTimeAnalysis.java
 
 
 ![Img_9](https://github.com/limeonion/Classroom-Scheduling/blob/master/Resources/9.png)
@@ -110,7 +110,7 @@ Questions that we solved
 
 **Solution:**
 > **Source code:**</br>
-> https://github.com/ramanpreet1990/CSE_587_Data_Intensive_Computing/blob/master/Problem_2/Question_5_Popular_Exam_Slots/PopularExamSlots.java
+> https://github.com/limeonion/Classroom-Scheduling/blob/master/Problem_2/Question_5_Popular_Exam_Slots/PopularExamSlots.java
 
 ![Img_10](https://github.com/limeonion/Classroom-Scheduling/blob/master/Resources/10.png)
 

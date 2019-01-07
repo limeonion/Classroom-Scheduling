@@ -1,4 +1,4 @@
-<p align="center">Data Intensive Computing</br>Hadoop - MapReduce - Tableau</br></p>
+<p align="center"></br>Hadoop - MapReduce - Tableau</br></p>
 
 ------
 

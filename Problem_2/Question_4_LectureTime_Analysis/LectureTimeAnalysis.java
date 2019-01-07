@@ -11,8 +11,7 @@ import org.apache.hadoop.mapreduce.lib.input.FileInputFormat;
 import org.apache.hadoop.mapreduce.lib.output.FileOutputFormat;
 
 /**
- * @author Ramanpreet Singh Khinda (rkhinda | 5016-9622)
- * @author Elroy Preetham Alva (elroypre | 5016-8107)
+ * @author Amit Kamat
  * 
  * @category Project: Parallel Processing of Big Data using Hadoop MapReduce and
  *           build a Dashboard for Analysis and Visualization of Results

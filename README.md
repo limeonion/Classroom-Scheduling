@@ -42,16 +42,16 @@ You can either run Hadoop MR jobs in HDFS which require you to run the HDFS ever
 	https://github.com/winghc/hadoop2x-eclipse-plugin/blob/master/release/hadoop-eclipse-kepler-plugin-2.4.1.jar
 
 4. Goto Project Build path and add Hadoop jars as shown below
-![Img_1](https://raw.githubusercontent.com/ramanpreet1990/CSE_587_Data_Intensive_Computing/master/Resources/1.png)
+![Img_1](https://github.com/limeonion/Classroom-Scheduling/blob/master/Resources/1.png)
 
 5. Configure program parameters in run configuration
-![Img_2](https://raw.githubusercontent.com/ramanpreet1990/CSE_587_Data_Intensive_Computing/master/Resources/2.png)
+![Img_2](https://github.com/limeonion/Classroom-Scheduling/blob/master/Resources/2.png)
 
 	*Alternatively if you are running Hadoop on HDFS than you may want to give the HDFS path for the Arguments as shown below
 > hdfs://localhost:9000/user/rkhinda/input/ hdfs://localhost:9000/user/rkhinda/output/
 
 6.  Define the location of a Hadoop infrastructure for running MapReduce applications
-![Img_3](https://raw.githubusercontent.com/ramanpreet1990/CSE_587_Data_Intensive_Computing/master/Resources/3.png)
+![Img_3](https://github.com/limeonion/Classroom-Scheduling/blob/master/Resources/3.png)
 
 Questions that we solved
 ------------------------------------
@@ -65,7 +65,7 @@ Questions that we solved
 > **Source code:**</br>
 > https://github.com/ramanpreet1990/CSE_587_Data_Intensive_Computing/blob/master/Problem_2/Question_1_UB_Course_Demand/UBCourseDemand.java
 
-![Img_6](https://raw.githubusercontent.com/ramanpreet1990/CSE_587_Data_Intensive_Computing/master/Resources/6.png)
+![Img_6](https://github.com/limeonion/Classroom-Scheduling/blob/master/Resources/6.png)
 
 ---- 
 **Question 2: Most Popular Department Every Year**</br>
@@ -77,7 +77,7 @@ Questions that we solved
 > **Source code:**</br>
 > https://github.com/ramanpreet1990/CSE_587_Data_Intensive_Computing/blob/master/Problem_2/Question_2_Popular_Department/PopularDepartment.java
 
-![Img_7](https://raw.githubusercontent.com/ramanpreet1990/CSE_587_Data_Intensive_Computing/master/Resources/7.png)
+![Img_7](https://github.com/limeonion/Classroom-Scheduling/blob/master/Resources/7.png)
 
 ---- 
 **Question 3: Find wasted space in every building over the years**</br>
@@ -89,7 +89,7 @@ Questions that we solved
 > **Source code:**</br>
 > https://github.com/ramanpreet1990/CSE_587_Data_Intensive_Computing/blob/master/Problem_2/Question_3_Building_Utilization/BuildingUtilization.java
 
-![Img_8](https://raw.githubusercontent.com/ramanpreet1990/CSE_587_Data_Intensive_Computing/master/Resources/8.png)
+![Img_8](https://github.com/limeonion/Classroom-Scheduling/blob/master/Resources/8.png)
 
 ---- 
 **Question 4: Lecture Time Analysis**</br>
@@ -102,7 +102,7 @@ Questions that we solved
 > https://github.com/ramanpreet1990/CSE_587_Data_Intensive_Computing/blob/master/Problem_2/Question_4_LectureTime_Analysis/LectureTimeAnalysis.java
 
 
-![Img_9](https://raw.githubusercontent.com/ramanpreet1990/CSE_587_Data_Intensive_Computing/master/Resources/9.png)
+![Img_9](https://github.com/limeonion/Classroom-Scheduling/blob/master/Resources/9.png)
 
 ---- 
 **Question 5: Find the most popular exam slots in every building**</br>
@@ -112,7 +112,7 @@ Questions that we solved
 > **Source code:**</br>
 > https://github.com/ramanpreet1990/CSE_587_Data_Intensive_Computing/blob/master/Problem_2/Question_5_Popular_Exam_Slots/PopularExamSlots.java
 
-![Img_10](https://raw.githubusercontent.com/ramanpreet1990/CSE_587_Data_Intensive_Computing/master/Resources/10.png)
+![Img_10](https://github.com/limeonion/Classroom-Scheduling/blob/master/Resources/10.png)
 
 
 

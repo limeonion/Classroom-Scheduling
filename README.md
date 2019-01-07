@@ -2,7 +2,7 @@
 
 ------
 
-![Img_4](https://raw.githubusercontent.com/ramanpreet1990/CSE_587_Data_Intensive_Computing/master/Resources/4.png)
+![Img_4](https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjsyb294tzfAhXdITQIHWF4AMAQjRx6BAgBEAU&url=https%3A%2F%2Fwww.saviantconsulting.com%2Fblog%2F4-benefits-predictive-asset-analytics.aspx&psig=AOvVaw0tzaF3o0nTyzj1iBpqIMlN&ust=1546988252279996)
 
 Goal
 ------

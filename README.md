@@ -115,7 +115,3 @@ Questions that we solved
 ![Img_10](https://github.com/limeonion/Classroom-Scheduling/blob/master/Resources/10.png)
 
 
-
-Important
----------
-You are authorized to use the source code and make modifications as applicable by the **above Licence** however you are **not authorized** to make use of the university protected classroom scheduling data that is used in this project.

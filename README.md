@@ -48,7 +48,7 @@ You can either run Hadoop MR jobs in HDFS which require you to run the HDFS ever
 ![Img_2](https://github.com/limeonion/Classroom-Scheduling/blob/master/Resources/2.png)
 
 	*Alternatively if you are running Hadoop on HDFS than you may want to give the HDFS path for the Arguments as shown below
-> hdfs://localhost:9000/user/rkhinda/input/ hdfs://localhost:9000/user/amit/output/
+> hdfs://localhost:9000/user/amitdatt/input/ hdfs://localhost:9000/user/amitdatt/output/
 
 6.  Define the location of a Hadoop infrastructure for running MapReduce applications
 ![Img_3](https://github.com/limeonion/Classroom-Scheduling/blob/master/Resources/3.png)
